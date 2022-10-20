@@ -32,7 +32,7 @@ header{
    background: var(--color-paimary);
 }
 .me{
-  
+
    background: linear-gradient(var(--color-paimary),transparent);
    width: 20rem;
    height: 25rem;
