@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.4a9205fc.css",
-    "main.js": "/myportfolio/static/js/main.71d4b7ed.js",
+    "main.css": "/myportfolio/static/css/main.f1266f7f.css",
+    "main.js": "/myportfolio/static/js/main.8a43dcf7.js",
     "static/media/IMG_20210928_190155.jpg": "/myportfolio/static/media/IMG_20210928_190155.5bcb5bdaf1d45f0d8e42.jpg",
     "static/media/Akter-resume.pdf": "/myportfolio/static/media/Akter-resume.850e5415cd5cbeb8d8d2.pdf",
     "static/media/my.png": "/myportfolio/static/media/my.d569b63f51a47731deb5.png",
@@ -12,11 +12,11 @@
     "static/media/portfolio3.jpg": "/myportfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
     "static/media/portfolio4.jpg": "/myportfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/myportfolio/index.html",
-    "main.4a9205fc.css.map": "/myportfolio/static/css/main.4a9205fc.css.map",
-    "main.71d4b7ed.js.map": "/myportfolio/static/js/main.71d4b7ed.js.map"
+    "main.f1266f7f.css.map": "/myportfolio/static/css/main.f1266f7f.css.map",
+    "main.8a43dcf7.js.map": "/myportfolio/static/js/main.8a43dcf7.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a9205fc.css",
-    "static/js/main.71d4b7ed.js"
+    "static/css/main.f1266f7f.css",
+    "static/js/main.8a43dcf7.js"
   ]
 }
