@@ -54,9 +54,12 @@ header{
 }
 @media screen and (max-width:1024px) {
 header{
-   height: 70vh;
+   height: 70%;
 }
-
+section{
+   margin-top: 1rem;
+ 
+ }
 }
 @media screen and (max-width:600px) {
    header{
