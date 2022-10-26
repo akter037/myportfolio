@@ -1,4 +1,5 @@
 import React from 'react'
+import './header.css'
 import CV from '../../assets/Akter-resume.pdf'
 const CTA = () => {
   return (

@@ -16,6 +16,11 @@
     border-color: var(--color-paimary-variant);
     background: transparent;
 }
+.portfolio_item_image img{
+    height:14rem;
+    
+    
+}
 .portfolio_item_image{
     border-radius: 1.5rem;
     overflow: hidden;
