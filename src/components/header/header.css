@@ -9,6 +9,20 @@ header{
    height:100%;
  position: relative;
 }
+h1{
+   animation: scaling 2s ease-in 1;
+}
+
+@keyframes scaling{
+	0%,100%{
+		transform: scale(.5);
+		
+	}
+	50%{
+		transform: scale(1);
+	
+	}
+}
 
 .cta{
    margin-top: 2.5rem;

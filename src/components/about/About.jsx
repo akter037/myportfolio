@@ -39,8 +39,8 @@ const About = () => {
           </div>
 
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo magni ratione nobis pariatur fugiat quod corrupti at vero beatae harum adipisci culpa laboriosam explicabo dicta, mollitia ad illum dolores quo!
-            </p>
+            I am a person with flexibility of mind and capability to work Under pressure. I am smart and energetic; I have willingness to learn any new technology for the development of organization and mine. I am looking for an opportunity in your company to prove my skills, my dedication and myself.
+           </p>
             <a href="#contact" className='btn btn_primary'> Let's Talk</a>
 
 
