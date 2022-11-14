@@ -1,7 +1,7 @@
 import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/project_one.PNG'
-import IMG2 from '../../assets/portfolio2.jpg'
+import IMG2 from '../../assets/portfolio2.PNG'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
 import IMG5 from '../../assets/portfolio5.png'
@@ -12,15 +12,15 @@ const data=[
   id:1,
   image:IMG1,
   title:'Project One',
-  github:'https://github.com/akter037/project_one.git',
+  github:'https://github.com/akter037/project_one',
   demo:'https://akter037.github.io/project_one/'
 },
 {
   id:2,
   image:IMG2,
-  title:'Project Title 2',
-  github:'https://github.com/akter037',
-  demo:'https://dribbble.com'
+  title:'Photo Gallery',
+  github:'https://github.com/akter037/photo_gallery',
+  demo:'https://akter037.github.io/photo_gallery/'
 },
 {
   id:3,
